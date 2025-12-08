@@ -7,7 +7,7 @@ Je construis des infrastructures robustes en allant au-delà de la théorie. Mon
 
 🧠 **Ce sur quoi je travaille (Mon Focus et Compétences)**
 
-Mes projets reflètent mon apprentissage intensif dans ces domaines :
+Mes projets reflètent mon apprentissage dans ces domaines :
 
 * **Sécurité & Segmentation :** Architectures SOHO, **VLAN**, sécurisation (ACLs, **SSH Hardening**).
 * **Routage & Services :** **Routage Statique**, services essentiels **NAT** et **DHCP**.
