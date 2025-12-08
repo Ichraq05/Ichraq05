@@ -1,26 +1,27 @@
 ## Hi there 👋
-🎓 **Étudiant passionné par les réseaux, en quête de maîtrise.**
+🎓 **Étudiant en Ingénierie Réseau. En phase d'amélioration continue.**
 
-Mon objectif : **Performer en Ingénierie Réseau** en allant au-delà de la théorie. J'aime comprendre comment les systèmes s'interconnectent et explorer les couches basses (L3/L4) pour bâtir des infrastructures robustes.
-
----
-
-🧠 **Ce sur quoi je travaille (Mon Focus)**
-
-Je suis actuellement dans une phase d'apprentissage intensif et d'amélioration continue. Mes projets sont mon terrain de jeu pour appliquer et consolider mes compétences :
-
-* **Réseaux & Sécurité :** Implémentation d'architectures sécurisées (SOHO), segmentation **VLAN** et sécurisation des accès (**SSH Hardening**, **ACLs**).
-* **Protocoles & Routage :** Maîtrise du **Routage Statique**. Application des services essentiels : **NAT** (Traduction d'Adresses Réseau) et **DHCP** (Configuration dynamique d'hôtes).
-* **Outils & Systèmes :** **Cisco IOS**, **Linux** (gestion système), Cisco Packet Tracer, **Python** (pour le scripting d'automatisation).
+Je construis des infrastructures robustes en allant au-delà de la théorie. Mon objectif : **Performer en Ingénierie Réseau**.
 
 ---
 
-🎯 **Mon Ambition**
+🧠 **Ce sur quoi je travaille (Mon Focus et Compétences)**
 
-J'aborde chaque nouveau concept avec curiosité et détermination. Je suis motivé par la perspective d'utiliser mes compétences pour résoudre des problèmes concrets dans le monde professionnel.
+Mes projets reflètent mon apprentissage intensif dans ces domaines :
+
+* **Sécurité & Segmentation :** Architectures SOHO, **VLAN**, sécurisation (ACLs, **SSH Hardening**).
+* **Routage & Services :** **Routage Statique**, services essentiels **NAT** et **DHCP**.
+* **Outils & Systèmes :** **Cisco IOS**, **Linux**, scripting **Python**, Cisco Packet Tracer.
+
+---
+
+🎯 Mon Ambition
+
+* Curieux et déterminé à résoudre des problèmes concrets.
+* Motivé à appliquer mes compétences en milieu professionnel.
 
 
-* *Quand je ne suis pas devant Cisco IOS, j'explore les dernières tendances tech.
+* *Quand je ne suis pas en train de configurer une topologie, j'explore les dernières tendances tech.*
 <!--
 **Ichraq05/Ichraq05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
