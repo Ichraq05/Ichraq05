@@ -5,7 +5,7 @@ Mon objectif : **Performer en Ingénierie Réseau** en allant au-delà de la th�
 
 ---
 
-### 🧠 Ce sur quoi je travaille (Mon Focus)
+🧠 **Ce sur quoi je travaille (Mon Focus)**
 
 Je suis actuellement dans une phase d'apprentissage intensif et d'amélioration continue. Mes projets sont mon terrain de jeu pour appliquer et consolider mes compétences :
 
@@ -15,7 +15,7 @@ Je suis actuellement dans une phase d'apprentissage intensif et d'amélioration 
 
 ---
 
-### 🎯 Mon Ambition
+🎯 **Mon Ambition**
 
 J'aborde chaque nouveau concept avec curiosité et détermination. Je suis motivé par la perspective d'utiliser mes compétences pour résoudre des problèmes concrets dans le monde professionnel.
 
