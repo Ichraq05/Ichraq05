@@ -19,8 +19,7 @@ Mes projets reflètent mon apprentissage dans ces domaines :
 
 * Curieux et déterminé à résoudre des problèmes concrets.
 * Motivé à appliquer mes compétences en milieu professionnel.
-
-
+---
 * *Quand je ne suis pas en train de configurer une topologie, j'explore les dernières tendances tech.*
 <!--
 **Ichraq05/Ichraq05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
