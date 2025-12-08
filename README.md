@@ -1,5 +1,5 @@
 ## Hi there 👋
-🎓 **Je suis Ichraq, étudiant en Master Informatique. Je suis actuellement dans une phase d'apprentissage et d'amélioration continue.**
+🎓 Je suis **Ichraq**, étudiant en Master Informatique. Je suis actuellement dans une phase d'apprentissage et d'amélioration continue.
 
 Je construis des infrastructures robustes en allant au-delà de la théorie. Mon objectif : **Performer en Ingénierie Réseau**.
 
