@@ -1,11 +1,11 @@
 ## Hi there 👋
-🎓 Je suis **Ichraq**, étudiant en Master Informatique. Je suis actuellement dans une phase d'apprentissage et d'amélioration continue.
+Je suis **Ichraq**, étudiant en Master Informatique. Je suis actuellement dans une phase d'apprentissage et d'amélioration continue.
 
 Je construis des infrastructures robustes en allant au-delà de la théorie. Mon objectif : **Performer en Ingénierie Réseau**.
 
 ---
 
-🧠 Ce sur quoi je travaille **(Mon Focus et Compétences)**
+Ce sur quoi je travaille **(Mon Focus et Compétences)**
 
 Mes projets reflètent mon apprentissage dans ces domaines :
 
@@ -15,7 +15,7 @@ Mes projets reflètent mon apprentissage dans ces domaines :
 
 ---
 
-🎯 Mon Ambition
+Mon Ambition
 
 * Curieux et déterminé à résoudre des problèmes concrets.
 * Motivé à appliquer mes compétences en milieu professionnel.
